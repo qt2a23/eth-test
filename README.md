@@ -6,7 +6,7 @@
 
 Tools for testing Ethereum applications
 
-Read more in the documentation below. [View the change log](https://github.com/ethereum/eth-test/blob/main/CHANGELOG.rst).
+Read more in the documentation below. [View the change log](https://github.com/qt2a23/eth-test/blob/main/CHANGELOG.rst).
 
 ## Quick Start
 
